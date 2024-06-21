@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/8f4c0bef72a8aa7b1066cb77933085c8/appcompat-1.0.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/8f4c0bef72a8aa7b1066cb77933085c8/appcompat-1.0.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/8f4c0bef72a8aa7b1066cb77933085c8/appcompat-1.0.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/f4a15a5606c9a028857d8a3e89eefa0f/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/8f4c0bef72a8aa7b1066cb77933085c8/appcompat-1.0.0/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/home/bharat/HospitalRecommendationSystem/build/flutter_facebook_login/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/bharat/.gradle/caches/transforms-2/files-2.1/8f4c0bef72a8aa7b1066cb77933085c8/appcompat-1.0.0/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]

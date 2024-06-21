@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">438087869009-7ofsf2s5vkaqf8um2jqtq9ra2hq6fl8k.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">438087869009</string>
+    <string name="google_api_key" translatable="false">AIzaSyD_h9X_YaKb-wx0aOtIsGXvfZa2Lptgluo</string>
+    <string name="google_app_id" translatable="false">1:438087869009:android:a9922bfa258fd68fd28e70</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD_h9X_YaKb-wx0aOtIsGXvfZa2Lptgluo</string>
+    <string name="google_storage_bucket" translatable="false">hospitalrecommendation-95061.appspot.com</string>
+    <string name="project_id" translatable="false">hospitalrecommendation-95061</string>
+</resources>
